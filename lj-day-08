@@ -1,0 +1,2 @@
+#Learning Journal 8
+Today I learned how to create a form with my cookie store problem. After using constructor functions and simplifying my code by roughly 80 lines, it was so much easier to manage. Because of this, creating the form wasn't difficult at all. All I had to do was initiate the form in my html and then essentially write a constructor function for the form. Today was a great day of class in my opinion.
