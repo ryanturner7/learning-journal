@@ -1,0 +1,2 @@
+# Learning Journal 11
+Today I learned how to create graphs and charts. This is a useful feature for doing things that require you to show a data comparison. Also, we learned how to style the charts which makes them much more appealing than they would have been otherwise. The busmall activity that we have been doing is quite difficult but Duncan's demo today made me understand it much better. The first two days of this week have been tough but I'm getting it!
