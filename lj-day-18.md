@@ -1,0 +1,2 @@
+# Learning Journal 18
+Today I learned how to manage the checkboxes on my project strictly through javascript instead of hard coding them into my HTML. This has been quite the issue for us in these past couple days but we have figured it out finally. Also, I finally have a profile picture saving to local storage for the current user, which lives through page refreshes. Our project is coming together!
