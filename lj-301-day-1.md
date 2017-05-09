@@ -1,0 +1,2 @@
+# LJ Code 301 - Day 1
+Today I learned how to dive into sample code and accomplish what I want to with it. Although we only performed html and css today, I feel as if I really built my confidence to do this with sample code. Also, we discussed greatly the importance of responsive web design. This opened my mind to the things that you need to be keeping in mind when designing a web page, such as keeping it mobile friendly for example. Today was a great first day and I am super stoked for this month in 301!
