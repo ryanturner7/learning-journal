@@ -1,0 +1,2 @@
+# LJ Code 301 - Day 5
+Today I learned some solid advice from an experienced tech company founder. During our lunch power hour, Jason explained to us the importance of having as much knowledge in as many different programming areas that you can possibly have. The point of this is to always be learning new things because programming languages, such as javascript, are evolving so rapidly. As a programmer, you never want to become stagnant with learning, therefor I am going to make it a habit to learn as much as possible.
