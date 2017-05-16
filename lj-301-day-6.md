@@ -1,0 +1,2 @@
+# LJ Code 301 - Day 6
+Today I learned about AJAX requests and how JSON relates to them. I learned how much simpler and quicker this actually makes the process of making an http request. While learning everything that I've learned, I also realized how my github ignorance could cause problems for myself down the road. Because of this, I was running into complex merge conflicts but I now fully understand how to prevent that. 
